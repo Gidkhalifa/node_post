@@ -1,3 +1,4 @@
 # POST USING EXPRESS
-## JUST PULL AND TEST
-- [hope it will help]
+
+- [a simple project using express and ejs for posting data from a form using]
+
